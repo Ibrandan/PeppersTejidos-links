@@ -24,7 +24,7 @@ body {
 
 .tarjeta {
     margin-top: 1.5rem;
-    outline: 2px solid #BF9270;
+    border: 2px solid #BF9270;
     background-color: #fff;
     border-radius: 10px;
 }
@@ -59,7 +59,7 @@ body {
     background-color: #fff;
     margin: .8rem 0;
     text-align: center;
-    outline: 2px solid #BF9270;
+    border: 2px solid #BF9270;
 }
 
 .envio {
@@ -110,7 +110,7 @@ body {
         display: flex;
         flex-direction: row;
         justify-content: center;
-        outline: 2px solid #BF9270;
+        border: 2px solid #BF9270;
         border-radius: 10px;
     }
     .iconos a {
